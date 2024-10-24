@@ -1,0 +1,13 @@
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\bin\Debug\Rock-Paper-Scissors Game.exe.config
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\bin\Debug\Rock-Paper-Scissors Game.exe
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\bin\Debug\Rock-Paper-Scissors Game.pdb
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\Rock-Paper-Scissors Game.csproj.AssemblyReference.cache
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\Rock_Paper_Scissors_Game.frmMainGame.resources
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\Rock_Paper_Scissors_Game.Properties.Resources.resources
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\Rock-Paper-Scissors Game.csproj.GenerateResource.cache
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\Rock-Paper-Scissors Game.csproj.CoreCompileInputs.cache
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\Rock-Paper-Scissors Game.exe
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\Rock-Paper-Scissors Game.pdb
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\bin\Debug\Guna.UI2.dll
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\Rock-Pap.1DD54D32.Up2Date
+C:\Users\Abd-Allah\source\repos\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\Rock_Paper_Scissors_Game.FrmScreen.resources
